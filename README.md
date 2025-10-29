@@ -1,6 +1,7 @@
 # MATLAB Portfolio 
 
 A collection of MATLAB projects exploring applied mathematics, computational physics, and numerical analysis. Topics include Monte Carlo simulations, differential equations, iterative solvers, and orbital mechanics. 
+Each folder contains the project write-up, and the MATLAB files used in the project.
 
 ---
 
